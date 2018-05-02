@@ -1,0 +1,5 @@
+*.prefs
+*.classpath
+*.cache-main
+*.project
+*.class
